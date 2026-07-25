@@ -3,7 +3,7 @@ export const ACCOUNTS = [
     {"email": "den_isaev_95@mail.ru", "password": "Zaebali1995"},
     {"email": "kingcpmcpm1@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm2@gmail.com", "password": "666666"},
-    {"email": "kingcpmcpm3@gmail.com", "password": "666666"},
+    {"email": "kingcpmcpm2@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm4@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm5@gmail.com", "password": "666666"},
     {"email": "kingcpmcpm6@gmail.com", "password": "666666"},
